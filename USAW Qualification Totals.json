@@ -1,0 +1,23 @@
+[
+{"id":"1","bodyweight":"45kg","gender":"F","world_record": 191,"american_record": 181, "AO_series_2020": 87},
+{"id":"2","bodyweight":"49kg","gender":"F","world_record": 210,"american_record": 190, "AO_series_2020": 90},
+{"id":"3","bodyweight":"55kg","gender":"F","world_record": 232,"american_record": 207, "AO_series_2020": 99},
+{"id":"4","bodyweight":"59kg","gender":"F","world_record": 243,"american_record": 213, "AO_series_2020": 105},
+{"id":"5","bodyweight":"64kg","gender":"F","world_record": 257,"american_record": 232, "AO_series_2020": 115},
+{"id":"6","bodyweight":"71kg","gender":"F","world_record": 267,"american_record": 246, "AO_series_2020": 126},
+{"id":"7","bodyweight":"76kg","gender":"F","world_record": 278,"american_record": 245, "AO_series_2020": 130},
+{"id":"8","bodyweight":"81kg","gender":"F","world_record": 283,"american_record": 248, "AO_series_2020": 132},
+{"id":"9","bodyweight":"87kg","gender":"F","world_record": 294,"american_record": 250, "AO_series_2020": 137},
+{"id":"10","bodyweight":"+87kg","gender":"F","world_record": 331,"american_record": 290, "AO_series_2020": 147},
+{"id":"11","bodyweight":"55kg","gender":"M","world_record": 293,"american_record": 242, "AO_series_2020": 125},
+{"id":"12","bodyweight":"61kg","gender":"M","world_record": 317,"american_record": 272, "AO_series_2020": 140},
+{"id":"13","bodyweight":"67kg","gender":"M","world_record": 339,"american_record": 312, "AO_series_2020": 173},
+{"id":"14","bodyweight":"73kg","gender":"M","world_record": 362,"american_record": 347, "AO_series_2020": 177},
+{"id":"15","bodyweight":"81kg","gender":"M","world_record": 375,"american_record": 357, "AO_series_2020": 203},
+{"id":"16","bodyweight":"89kg","gender":"M","world_record": 387,"american_record": 370, "AO_series_2020": 211},
+{"id":"17","bodyweight":"96kg","gender":"M","world_record": 416,"american_record": 380, "AO_series_2020": 221},
+{"id":"18","bodyweight":"102kg","gender":"M","world_record": 412,"american_record": 387, "AO_series_2020": 226},
+{"id":"19","bodyweight":"109kg","gender":"M","world_record": 435,"american_record": 399, "AO_series_2020": 235},
+{"id":"20","bodyweight":"+109kg","gender":"M","world_record": 478,"american_record": 430, "AO_series_2020": 240}
+]
+
